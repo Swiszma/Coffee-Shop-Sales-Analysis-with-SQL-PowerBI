@@ -3,13 +3,19 @@ End-to-end BI solution transforming 149k raw coffee transactions into strategic 
 
 
 ### Table of Contents ###
-Project Overview & Business Task
-Phase 1: Ask (Strategic Objectives)
-Phase 2: Prepare (Data Sourcing & Integrity)
-Phase 3: Process (Data Engineering & ETL)
-Phase 4: Analyze (SQL Interrogation)
-Phase 5: Share (Power BI Dashboard Architecture)
-Phase 6: Act (Strategic Recommendations)
+[Project Overview and Business Task](project_overview_and_business_tas)
+
+[Strategic Objectives](strategic_objectives)
+
+[Data Sourcing and Integrity](data_sourcing_and_integrity)
+
+[Data Engineering and ETL](data_engineering_and_etl)
+
+[SQL Analysis](SQL_analysis)
+
+[Power BI Dashboard Architecture](power_bi_ashboard_architecture)
+
+[Strategic Recommendations](strategic_recommendations)
 
 ## Project Overview & Business Task ##
 #### Welcome to the Coffee Shop Sales Growth Case Study. ####
