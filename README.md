@@ -3,7 +3,7 @@ End-to-end transformation of 149k raw coffee transactions into strategic growth.
 
 
 ### Table of Contents ###
-[Project Overview and Business Task](project_overview_and_business_tas)
+[Project Overview and Business Task](project_overview_and_business_task)
 
 [Strategic Objectives](strategic_objectives)
 
