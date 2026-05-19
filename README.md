@@ -3,19 +3,19 @@ End-to-end transformation of 149k raw coffee transactions into strategic growth.
 
 
 ### Table of Contents ###
-[Project Overview and Business Task](project_overview_and_business_task)
+[Project Overview and Business Task](#project_overview_and_business_task)
 
-[Strategic Objectives](strategic_objectives)
+[Strategic Objectives](#strategic_objectives)
 
-[Data Sourcing and Integrity](data_sourcing_and_integrity)
+[Data Sourcing and Integrity](#data_sourcing_and_integrity)
 
-[Data Engineering and ETL](data_engineering_and_etl)
+[Data Engineering and ETL](#data_engineering_and_etl)
 
-[SQL Analysis](SQL_analysis)
+[SQL Analysis](#SQL_analysis)
 
-[Power BI Dashboard Architecture](power_bi_ashboard_architecture)
+[Power BI Dashboard Architecture](#power_bi_ashboard_architecture)
 
-[Strategic Recommendations](strategic_recommendations)
+[Strategic Recommendations](#strategic_recommendations)
 
 ## Project Overview and Business Task ##
 #### Welcome to the Coffee Shop Sales Growth Case Study. ####
