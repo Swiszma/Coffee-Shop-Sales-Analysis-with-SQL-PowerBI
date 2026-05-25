@@ -83,7 +83,8 @@ I established a Star Schema by building a dedicated Dim_Date table. This "Master
 - The "Hot Product" Tooltip: Integrated a TOPN(1) measure into the Hourly Heatmap. Hovering over any peak hour reveals the #1 selling product (e.g., Barista Espresso) for that specific window.
 - Native Matrix Heatmap: Built a custom calendar grid that "glows" based on sales volume and indicates sales, quanties, and orders when hovered on, allowing managers to visually identify high-performing days without reading a single table.
 
-<img width="1227" height="747" alt="image" src="https://github.com/user-attachments/assets/971f2a7a-77b8-46c5-8423-6d24bc5756ad" />
+<img width="1243" height="758" alt="image" src="https://github.com/user-attachments/assets/0b1a14a2-0fb9-4ede-adb7-b3d796e6fb2b" />
+
 
 
 ## Strategic Recommendations ##
